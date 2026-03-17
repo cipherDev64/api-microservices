@@ -38,7 +38,7 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model('User', userSchema);
 
 /*
-    Routes
+    Routes (Endpoints)
 */
 
 // GET all users
